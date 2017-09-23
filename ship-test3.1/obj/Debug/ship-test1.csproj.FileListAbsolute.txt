@@ -37,3 +37,13 @@ C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test4\obj\Debug\sh
 C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test4\obj\Debug\ship-test1.csproj.CoreCompileInputs.cache
 C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test4\obj\Debug\ship-test1.exe
 C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test4\obj\Debug\ship-test1.pdb
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test3.1\bin\Debug\ship-test1.exe.config
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test3.1\bin\Debug\ship-test1.exe
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test3.1\bin\Debug\ship-test1.pdb
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test3.1\obj\Debug\ship-test1.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test3.1\obj\Debug\ship_test1.Form1.resources
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test3.1\obj\Debug\ship_test1.Properties.Resources.resources
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test3.1\obj\Debug\ship-test1.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test3.1\obj\Debug\ship-test1.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test3.1\obj\Debug\ship-test1.exe
+C:\Users\david\Desktop\Coding\GameCoding\Project\C#_ship\ship-test3.1\obj\Debug\ship-test1.pdb

@@ -261,7 +261,7 @@ namespace ship_test1
 
             g_main.DrawString($"position : {ship.pos.ToString()}\r\n" +
                          $"velocity : {ship.velocity.ToString()}\r\n" +
-                         $"speed : {Math.Round(ship.velocity.getLength(), 2)}\r\n" +
+                         $"speed : {Math.Round(ship.velocity.getLength(), 2)} pixel/sec\r\n" +
                          $"\r\n" +
                          $"FPS : {Math.Round(1000.0 / deltaTimeMs)}\r\n" +
                          $"Average FPS : {Math.Round(timeAll.Average(), 1)}\r\n" +
