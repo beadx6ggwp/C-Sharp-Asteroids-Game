@@ -4,13 +4,16 @@ ship-test1:<br>
 
 ship-test2:<br>
 雙緩衝<br>
-FPS穩定
+FPS穩定<br>
+![Alt text](test1.gif)
 
 ship-test3:<br>
 Animation函式庫<br>
 Entity Class<br>
 Bullet Class<br>
-Ship Class
+Ship Class<br>
+![Alt text](test2.gif)
 
 ship-test3.1:<br>
-使用DeltaTime穩定移動速度
+使用DeltaTime穩定移動速度<br>
+![Alt text](test3.gif)
