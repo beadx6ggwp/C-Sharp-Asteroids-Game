@@ -8,8 +8,9 @@ FPS穩定
 
 ship-test3:<br>
 Animation函式庫<br>
-發射子彈<br>
-架構整理
+Entity Class<br>
+Bullet Class<br>
+Ship Class
 
 ship-test3.1:<br>
 使用DeltaTime穩定移動速度
