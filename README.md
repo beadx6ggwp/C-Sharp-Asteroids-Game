@@ -7,12 +7,12 @@
 
 ## ship-test1:<br>
 基本移動與更新<br>
-![Alt text](\example\test1.gif)
+![Alt text](test1.gif)
 
 ## ship-test2:<br>
 雙緩衝<br>
 FPS穩定<br>
-![Alt text](\example\test2.gif)
+![Alt text](test2.gif)
 
 
 ## ship-test3:<br>
@@ -20,7 +20,7 @@ Animation函式庫<br>
 Entity Class<br>
 Bullet Class<br>
 Ship Class<br>
-![Alt text](\example\test3.gif)
+![Alt text](test3.gif)
 
 
 ## ship-test3.1:<br>
@@ -30,12 +30,12 @@ Ship Class<br>
 ## ship-test4:<br>
 加入行星<br>
 當行星被子彈擊中時消失<br>
-![Alt text](\example\test4.gif)
+![Alt text](test4.gif)
 
 
 ## ship-test5:<br>
 加入爆炸特效<br>
 修正Entity的Animation會同步撥放的問題，因為是以物件參考，所以全部都連到同個Animation<br>
 解決方法:以將Class換成Struct<br>
-![Alt text](\example\test5.gif)
+![Alt text](test5.gif)
 
