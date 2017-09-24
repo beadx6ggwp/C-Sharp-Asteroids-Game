@@ -6,6 +6,7 @@
 2. 關於Animation從Class換Struct就可正常使用的原因還有待確認
 
 
+
 ## ship-test5:<br>
 加入爆炸特效<br>
 修正Entity的Animation會同步撥放的問題，因為是以物件參考，所以全部都連到同個Animation<br>
@@ -16,6 +17,11 @@
 ## ship-test4:<br>
 加入行星<br>
 當行星被子彈擊中時消失<br>
+![Alt text](test4.gif)
+
+
+## ship-test3.1:<br>
+使用DeltaTime穩定移動速度
 
 
 ## ship-test3:<br>
@@ -24,11 +30,6 @@ Entity Class<br>
 Bullet Class<br>
 Ship Class<br>
 ![Alt text](test3.gif)
-
-
-## ship-test3.1:<br>
-使用DeltaTime穩定移動速度
-![Alt text](test4.gif)
 
 
 ## ship-test2:<br>
