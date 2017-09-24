@@ -19,3 +19,8 @@ Ship Class<br>
 
 ## ship-test3.1:<br>
 使用DeltaTime穩定移動速度
+
+
+## ship-test4:<br>
+加入小行星並攻擊<br>
+![Alt text](test4.gif)
